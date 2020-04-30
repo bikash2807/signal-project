@@ -3,9 +3,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.jbpm.test</groupId>
-  <artifactId>single-project</artifactId>
+  <artifactId>signal-project</artifactId>
   <version>1.0.0-SNAPSHOT</version>
-  <name>single-project</name>
+  <name>signal-project</name>
   <build>
     <plugins>
       <plugin>
